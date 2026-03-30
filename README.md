@@ -37,6 +37,7 @@ These models are trained and compared to identify the most accurate prediction m
 - ROC-AUC Curve
 
 ## 📂 Project Structure
+'''
 software-defect-estimation/
 │── Data/
 │── preprocessingfile.py
@@ -44,7 +45,7 @@ software-defect-estimation/
 │── logistic_regression_ensembler.py
 │── performance_check.py
 │── README.md
-
+'''
 
 ## ▶️ How to Run
 
