@@ -6,35 +6,35 @@ This project focuses on predicting software defects using Machine Learning techn
 The model is trained using various classification algorithms and evaluated using performance metrics to determine the best-performing approach.
 
 ## 🚀 Features
-Predicts software defects using ML models
-Uses multiple algorithms for comparison
-Combines models using ensemble techniques
-Evaluates performance using standard metrics
-Helps in improving software quality
+- Predicts software defects using ML models
+- Uses multiple algorithms for comparison
+- Combines models using ensemble techniques
+- Evaluates performance using standard metrics
+- Helps in improving software quality
 
 ## 🛠️ Technologies Used
-Python
-NumPy
-Pandas
-Scikit-learn
-Matplotlib / Seaborn
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib / Seaborn
 
 ## 🤖 Machine Learning Models Used
-Random Forest
-Support Vector Machine (SVM)
-Decision Tree
-Naive Bayes
-Artificial Neural Network (ANN)
-Logistic Regression (for ensemble)
+- Random Forest
+- Support Vector Machine (SVM)
+- Decision Tree
+- Naive Bayes
+- Artificial Neural Network (ANN)
+- Logistic Regression (for ensemble)
 
 These models are trained and compared to identify the most accurate prediction model. ()
 
 ## 📊 Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1 Score
-ROC-AUC Curve
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC Curve
 
 ## 📂 Project Structure
 software-defect-estimation/
@@ -63,7 +63,7 @@ python models.py
 The project compares different machine learning models and identifies the best-performing model based on evaluation metrics. Ensemble techniques improve overall prediction accuracy.
 
 ## 🎯 Use Case
-Software quality assurance
-Bug prediction before deployment
-Reducing testing effort
-Improving development efficiency
+- Software quality assurance
+- Bug prediction before deployment
+- Reducing testing effort
+- Improving development efficiency
